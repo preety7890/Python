@@ -1,0 +1,6 @@
+Student 1 marks= 2
+Student 2 marks= 2
+Student 3 marks= 2
+Student 4 marks= 2
+Student 5 marks= 2
+Average marks of student is:2.0

@@ -1,0 +1,5 @@
+Name: priti gupta
+Age: 21
+College: bimName: Priyanshi
+Age: 20
+College: BIM

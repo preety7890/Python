@@ -9,3 +9,5 @@ print("Dimensions of array is:",marks.ndim)
 print(marks)
 print("Total elements in array is",np.size(marks))
 
+# convert of 2d array into 1d array 
+print("Conversion of 2d array into 1d array is:",marks.flatten())

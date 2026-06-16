@@ -9,3 +9,8 @@ print("Average marks of student is:",np.mean(marks))
 print("Highest marks in student is:",np.max(marks))
 print("Lowest marks in student is:",np.min(marks))
 
+# filtering operations
+print("Number which is greater than 60 :" , marks[marks > 60])
+print("Number which is less than 60 :" , marks[marks < 60]) 
+
+
